@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Common\\AzureFuns.Common.csproj": {}
+    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Common\\AzureFuns.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Common\\AzureFuns.Common.csproj": {
+    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Common\\AzureFuns.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
+        "projectUniqueName": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
         "projectName": "AzureFuns.Common",
-        "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
+        "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Common\\obj\\",
+        "outputPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
+              "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
+    "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
         "projectName": "AzureFuns.Data.Models",
-        "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
+        "projectPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\AzureFuns.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\BIAHW\\source\\repos\\AzureFuncs.BigTable.Example\\Sample_CSharp_AzureTableStorage_Repository_Example\\AzureFuns.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",

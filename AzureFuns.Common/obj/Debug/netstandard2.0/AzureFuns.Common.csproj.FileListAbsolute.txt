@@ -20,3 +20,14 @@ C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\AzureFuns.Common\obj\Deb
 C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.csproj.CopyComplete
 C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.dll
 C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.pdb
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.deps.json
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.dll
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.pdb
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Data.Models.dll
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Data.Models.pdb
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.csprojAssemblyReference.cache
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.AssemblyInfoInputs.cache
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.AssemblyInfo.cs
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.csproj.CopyComplete
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.dll
+C:\Users\BIAHW\source\repos\AzureFuncs.BigTable.Example\Sample_CSharp_AzureTableStorage_Repository_Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.pdb
